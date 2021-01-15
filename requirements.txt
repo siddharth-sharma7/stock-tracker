@@ -3,3 +3,6 @@ uvicorn
 jinja2
 yfinance
 sqlalchemy
+gunicorn==19.9.0
+uvloop
+httptools
