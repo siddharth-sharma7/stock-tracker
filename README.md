@@ -1,6 +1,7 @@
 # Stock Tracker App
-Tracks the stock prices for curated list of stocks
-Has the functionality to add stocks for tracking
+### Tracks the stock prices for curated list of stocks
+
+### Has the functionality to add stocks for tracking
 
 ## Technologies:
 APIs : FastAPI
